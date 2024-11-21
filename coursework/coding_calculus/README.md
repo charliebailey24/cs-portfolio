@@ -6,13 +6,30 @@ Python based course exploring the original numerical motivations for calculus th
 ## Course text
 Calculus in Context, Callahan, ISBN 0- 71672-630-0
 
-## Work
-### [Derivatives](derivatives)
-### [Integrals](integrals)
+## Technology used
+Python, NumPy, Matplotlib, Desmos
+
+## Skills acquired
+* Numerical analysis
+* Mathematical modeling
+* Data visualization
+* Differential equation modeling
+* Calculus fundamentals
+
+## Selected Work
+The work I have selected to display here is broken out into three different categories based on the arc of the course. Numerical analysis and computational modeling were layered in throughout this course and provided a visual and conceptual framework upon which the fundamental components of calculus (the derivative and integral) were built.
+
+The most exemplary work is contained in the [diffeq.ipynb](./modeling/diffeq.ipynb), in which I model various differential equations and utilize the methods learned in this course to build my own meat defrosting model (the results of which I use regularly). I would start here then explore the rest of the content as you see fit.
+
 ### [Modeling](modeling)
+Explored population growth, pred-prey systems, and pandemic models using Python.
+### [Derivatives](derivatives)
+Visualized and coded numerical and symbolic methods for calculating derivatives, connecting conceptual theory to application.
+### [Integrals](integrals)
+Focused on numerical integration techniques with special focus on Riemann sums.
 
 ## Discussion Contributions
-![Dumb question](./assets/dumb_question.png)
+![Clarifying s_prime](./assets/clarifying_sprime.png)
 
 ![Clarifying timestep](./assets/clarifying_timestep.png)
 
