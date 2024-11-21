@@ -1,10 +1,10 @@
 # Charlie Bailey's Computer Science Portfolio
 
-Welcome to my professional portfolio! I am a Computer Science graduate with experience in [Your Specializations, e.g., machine learning, web development, etc.]. Below you will find my projects, academic coursework, and more.
+Welcome to my professional portfolio! I am a Computer Science graduate with experience in **machine learning, data science, algorithms, and software development**. Below you will find my projects, academic coursework, and contact info.
 
 ## Table of Contents
 - [Projects](#projects)
-- [Academic Coursework](#coursework)
+- [Academic Coursework](coursework/README.md)
 - [Contact](#contact)
 
 ## Projects
