@@ -1,5 +1,9 @@
 # CSPB 4830: Special Topics - Coding Calculus
 
+[Full Portfolio on GitHub](https://github.com/charliebailey24/cs-portfolio)
+
+Note: all other links in this readme are used to navigate the live GitHub repo and will not work in a downloaded PDF version.
+
 ## Description
 Python based course exploring the original numerical motivations for calculus though code. In this course we coded and visualized: differential equations, infinite sequences, derivatives, integrals and model real world dynamical systems like pandemics, predator prey models and even wine making.
 
