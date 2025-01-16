@@ -21,7 +21,7 @@ CS GPA: 3.97
 
 Credit Hours: 40.0
 
-![Unofficial Transcript](./assets/unofficial_transcript.png)
+![Unofficial Transcript](./assets/unofficial_transcript_2.png)
 
 ### Coursework
 
