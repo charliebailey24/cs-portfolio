@@ -17,15 +17,18 @@ Bachelors of Science (Post-Baccalaureate) in Applied Computer Science
 University of Colorado Boulder Department of Computer Science
 
 ### Unofficial Transcript
-GPA: 3.965
+CS GPA: 3.97
 
-Credit Hours: 34.0
+Credit Hours: 40.0
 
 ![Unofficial Transcript](./assets/unofficial_transcript.png)
 
 ### Coursework
+
 #### [Coding Calculus](coding_calculus/README.md)
 Python based course exploring the original numerical motivations for calculus though code.
+
+#### More to come!
 
 ## Contact
 [Email](mailto:charliebailey24@gmail.com)
