@@ -10,25 +10,17 @@ A ground-up implementation of the gradient descent algorithm—built from first 
 A deep learning approach to cryptocurrency price prediction using LSTM and GRU architectures, achieving better than baseline performance through systematic optimization.
 
 ## Academics
-### Degree
-Bachelors of Science (Post-Baccalaureate) in Applied Computer Science
-
 ### Institution
 University of Colorado Boulder Department of Computer Science
 
-### Unofficial Transcript
+### Degree
+Bachelors of Science (Post-Baccalaureate) in Applied Computer Science
+
 CS GPA: 3.97
 
 Credit Hours: 40.0
 
-![Unofficial Transcript](./assets/unofficial_transcript_2.png)
-
-### Coursework
-
-#### [Coding Calculus](coursework/coding_calculus/README.md)
-Python based course exploring the original numerical motivations for calculus though code.
-
-#### More to come!
+### [Courses](courses/README.md)
 
 ## Contact
 [Email](mailto:charliebailey24@gmail.com)
