@@ -16,9 +16,11 @@ University of Colorado Boulder College of Engineering & Applied Science
 ### Degree
 Bachelors of Science (Post-Baccalaureate) in Applied Computer Science
 
-CS GPA: 3.97
+CS GPA: 3.97/4
 
 Credit Hours: 40.0
+
+Expected Graduation: May 2025
 
 ### [Courses](courses/README.md)
 
