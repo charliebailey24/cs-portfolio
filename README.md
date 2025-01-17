@@ -1,9 +1,9 @@
 # Charlie Bailey's Computer Science Portfolio
 
-Welcome to my professional portfolio! I am a Computer Science post-bacc student with experience in **machine learning, data science, linear algebra, algorithms, and software development**. Below you will find my projects, academic coursework, and contact info.
+Welcome to my professional portfolio! I am a Computer Science Post-Bacc student with experience in **machine learning, data science, linear algebra, algorithms, and software development**. Below you will find my projects, academic coursework, and contact info.
 
 ## Projects
-### [Gradient Descent Implementation](projects/fp_grad_desc/README.md)
+### [Gradient Descent Implementation](https://github.com/charliebailey24/gradient-descent-implementation)
 A ground-up implementation of the gradient descent algorithm—built from first principles.
 
 ### [BTC Price Prediction](https://github.com/charliebailey24/btc-prediction-model)
@@ -25,7 +25,7 @@ Credit Hours: 40.0
 
 ### Coursework
 
-#### [Coding Calculus](coding_calculus/README.md)
+#### [Coding Calculus](coursework/coding_calculus/README.md)
 Python based course exploring the original numerical motivations for calculus though code.
 
 #### More to come!
