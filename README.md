@@ -11,7 +11,7 @@ A deep learning approach to cryptocurrency price prediction using LSTM and GRU a
 
 ## Academics
 ### Institution
-University of Colorado Boulder Department of Computer Science
+University of Colorado Boulder College of Engineering & Applied Science
 
 ### Degree
 Bachelors of Science (Post-Baccalaureate) in Applied Computer Science
