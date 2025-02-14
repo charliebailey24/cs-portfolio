@@ -19,13 +19,13 @@ Python, NumPy, Matplotlib, Desmos
 ## Selected Work
 The work I have selected to display here is broken out into three different categories based on the arc of the course. Numerical analysis and computational modeling were layered in throughout this course and provided a visual and conceptual framework upon which the fundamental components of calculus (the derivative and integral) were built.
 
-The most exemplary work is contained in the [diffeq.ipynb](./modeling/diffeq.ipynb), in which I model various differential equations and utilize the methods learned in this course to build my own meat defrosting model (the results of which I use regularly). I would start here then explore the rest of the content as you see fit.
+The most exemplary work is contained in the [diffeq.ipynb](https://github.com/charliebailey24/cs-portfolio/blob/main/courses/coding_calculus/modeling/diffeq.ipynb), in which I model various differential equations and utilize the methods learned in this course to build my own meat defrosting model (the results of which I use regularly). I would start here then explore the rest of the content as you see fit.
 
-### [Modeling](modeling)
+### [Modeling](https://github.com/charliebailey24/cs-portfolio/tree/main/courses/coding_calculus/modeling)
 Explored population growth, pred-prey systems, and pandemic models using Python.
-### [Derivatives](derivatives)
+### [Derivatives](https://github.com/charliebailey24/cs-portfolio/tree/main/courses/coding_calculus/derivatives)
 Visualized and coded numerical and symbolic methods for calculating derivatives, connecting conceptual theory to application.
-### [Integrals](integrals)
+### [Integrals](https://github.com/charliebailey24/cs-portfolio/tree/main/courses/coding_calculus/integrals)
 Focused on numerical integration techniques with special focus on Riemann sums.
 
 ## Discussion Contributions
