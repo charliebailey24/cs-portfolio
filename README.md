@@ -1,6 +1,6 @@
 # Charlie Bailey's Computer Science Portfolio
 
-Welcome to my professional portfolio! I am a Computer Science Post-Bacc student with experience in **machine learning, data science, linear algebra, algorithms, and software development**. Below you will find my projects, academic coursework, and contact info.
+Welcome to my professional portfolio! I am a Computer Science Post-Bacc student with experience in **data structures, algorithms, linear algebra, numerical analysis, machine learning, AI, and NLP**. Below you will find my projects, academic coursework, and contact info.
 
 ## Projects
 ### [Gradient Descent Implementation](https://github.com/charliebailey24/gradient-descent-implementation)
