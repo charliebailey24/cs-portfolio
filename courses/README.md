@@ -2,7 +2,7 @@
 
 ## Unofficial Transcript
 
-![Unofficial Transcript](../assets/unofficial_transcript_2.png)
+![Unofficial Transcript](../assets/final_unofficial_transcript.png)
 
 ## Coursework
 
