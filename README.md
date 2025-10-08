@@ -44,9 +44,11 @@ B.S. Applied Computer Science (May 2025) | GPA: 3.94
 
 ## Contact
 
-Available for internships and full-time opportunities.
+Available for internships, part-time, contract, and full-time opportunities.
 
 [Email](mailto:charliebailey24@gmail.com)
+
+[GitHub](https://github.com/charliebailey24)
 
 [LinkedIn](https://www.linkedin.com/in/charliebailey24/)
 

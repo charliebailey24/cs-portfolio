@@ -2,14 +2,6 @@
 
 San Francisco, CA (Open to Remote)
 
-Email: charliebailey24@gmail.com
-
-LinkedIn: https://linkedin.com/in/charliebailey24
-
-GitHub: https://github.com/charliebailey24
-
-Portfolio: https://charliebailey24.github.io/cs-portfolio/
-
 ---
 
 ## Summary
