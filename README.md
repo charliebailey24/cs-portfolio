@@ -1,6 +1,8 @@
 # Charlie Bailey's Computer Science Portfolio
 
-Welcome to my professional portfolio! I am a recent Computer Science Post-Bacc grad with experience in **artificial intelligence, machine learning, natural language processing, data science, linear algebra, computational calculus, algorithms, and software development**. Below you will find my projects, academic coursework, and contact info.
+Welcome to my professional portfolio! I am a recent Computer Science Post-Bacc grad with experience in **artificial intelligence, machine learning, natural language processing, data science, linear algebra, computational calculus, algorithms, and software development**. Below you will find my resume, projects, academic coursework, and contact info.
+
+## [Resume](resume/README.md)
 
 ## Projects
 
