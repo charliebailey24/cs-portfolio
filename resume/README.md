@@ -2,8 +2,6 @@
 
 San Francisco, CA (Open to Remote)
 
-Phone: (763) 226-3078
-
 Email: charliebailey24@gmail.com
 
 LinkedIn: https://linkedin.com/in/charliebailey24
@@ -42,32 +40,32 @@ Machine Learning, Artificial Intelligence, Natural Language Processing, Data Sci
 
 - Built and tuned LSTM/GRU one-step forecasters; GRU model (RMSE 1294.84) **narrowly outperformed a persistence baseline** (RMSE 1299.10), demonstrating the difficulty of the task.
 - Documented setup, metrics, and Apple Silicon GPU path; includes PDF report and requirements.
-- Repo: https://github.com/charliebailey24/btc-prediction-model
+- Repo: [charliebailey24/btc-prediction-model](https://github.com/charliebailey24/btc-prediction-model)
 
 ### Histopathologic Cancer Detection (PCam/Kaggle) — CNN (Keras)
 
 - Classified 96×96 pathology patches using a custom CNN with BatchNorm, Dropout, and early stopping to mitigate overfitting.
 - **Achieved validation AUC ≈ 0.96 (vs. 0.87 baseline)** on a subset of data; documented augmentation and training pipeline.
-- Repo: https://github.com/charliebailey24/cancer-detection
+- Repo: [charliebailey24/cancer-detection](https://github.com/charliebailey24/cancer-detection)
 
 ### Approximate Q-Learning Agent (LunarLander-v3) — From Scratch
 
 - Implemented custom approximate Q-learning agent with RBF features and ε-greedy exploration for continuous state spaces.
 - Validated agent learning on CartPole; analyzed feature scaling for LunarLander; modular environment code; foundation for DQN extensions.
 - Stack: Python, NumPy, scikit-learn, RBFSampler, Gymnasium.
-- Repo: https://github.com/charliebailey24/RL-agent
+- Repo: [charliebailey24/RL-agent](https://github.com/charliebailey24/RL-agent)
 
 ### Gradient Descent from First Principles
 
 - Implemented the gradient descent algorithm without ML libraries to visualize optimization mechanics.
 - Derived numerical partial derivatives; plotted 3D surfaces/contours; evaluated step-size impacts and convergence on convex functions.
-- Repo: https://github.com/charliebailey24/gradient-descent-implementation
+- Repo: [charliebailey24/gradient-descent-implementation](https://github.com/charliebailey24/gradient-descent-implementation)
 
 ### Project Deep Understanding — Building an LLM from Scratch (in progress)
 
 - End-to-end learning plan for transformer architectures; documenting weekly progress.
 - Using PyTorch; next milestone: ship a minimal char-level GPT with unit tests.
-- Hub: https://charliebailey24.github.io/project-deep-understanding/
+- Hub: [project-deep-understanding](https://charliebailey24.github.io/project-deep-understanding/)
 
 ---
 
@@ -80,7 +78,7 @@ Machine Learning, Artificial Intelligence, Natural Language Processing, Data Sci
 - Developed internal admin tooling to automate research study configuration, reducing manual setup time. Wrote custom SQL queries to extract and deliver precise datasets for client analysis.
 - Authored user guides and managed help desk for research participants.
 - Acknowledged for contributions in “Reciprocal Scoring: A Method for Forecasting Unanswerable Questions” (SSRN working paper).  
-  Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954498
+  Paper: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954498](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3954498)
 
 ---
 
